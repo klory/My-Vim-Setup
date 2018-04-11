@@ -16,6 +16,7 @@ wget -O ~/.vimrc https://raw.githubusercontent.com/klory/MyVim/master/.vimrc
 ```
 
 3. Install Plugins
+
 In your terminal,
 ```
 vim ~/.vimrc
