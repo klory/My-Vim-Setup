@@ -21,6 +21,7 @@ filetype plugin indent on    " required
 
 set nu
 map <C-n> :NERDTreeToggle<CR>
+syntax on
 set hlsearch
 color desert
 set cursorline                                                                      
